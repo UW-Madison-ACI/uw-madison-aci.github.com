@@ -1,4 +1,11 @@
-uw-madison-aci.github.com
-=========================
+UW-Madison Advanced Computing Infrastructure
+=============================================
 
-Github organization page for UW-Madison-ACI
+Welcome to the Github organization page for the UW-Madison ACI effort.
+  
+* aci.wisc.edu
+* uw-madison-aci.github.com/boot-camps
+
+  
+
+
